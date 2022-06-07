@@ -1,1 +1,10 @@
 callable python object
+
+In decorator1.py: 
+str_upper is returning the refernce of inner function.
+d is holding the refernce.
+print(d): prints the memory location of the function.
+print(d.__name__): prints inner(name of the function it is refering)
+if d() is called then we get the output in uppercase.
+
+this whole thing is done by decorator.
