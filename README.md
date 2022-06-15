@@ -3,4 +3,4 @@ Python Programming:
 - Decorators in python
 - Exception Handling
 - Object Oriented Programming(oops)
-- Miscellaneous
+- Miscellaneous -Regex, Time, Shallow copy,Deep Copy, Generators
